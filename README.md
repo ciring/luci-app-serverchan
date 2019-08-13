@@ -1,4 +1,6 @@
 # 说明
+- 源码来自https://github.com/KFERMercer/OpenWrt/tree/master/package/kferm/luci-app-serverchan修正了K3温度不能获取的错误
+— 增加了辣鸡流量信息统计
 - 用于 K3 OpenWRT/LEDE 路由器上进行 Server酱 微信推送的插件
 - 基于 serverchan 提供的接口发送信息，Server酱说明：http://sc.ftqq.com/1.version
 - 已经自带 luci
