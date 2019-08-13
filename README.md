@@ -14,8 +14,10 @@
 - 流量信息
 
 #### 预览截图
-![image](https://www.skeimg.com/u/20190813/17281548.png)
+
 ![image](https://www.skeimg.com/u/20190813/17281668.png)
+
+![image](https://www.skeimg.com/u/20190813/17281548.png)
 
 
 #### 已知BUG & 下一步计划
